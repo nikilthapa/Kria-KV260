@@ -1,1 +1,1 @@
-# Kria-KV260-4K-Standalone-Video-Design
+# Kria-KV260-Standalone-Video-Design
